@@ -1,0 +1,22 @@
+name: ScyleOffense
+author: xTimDevx
+version: 1.1
+main: me.xTimDevx.ScyleOffense.Main
+
+commands:
+   tempban:
+      usage: /<command>
+      description: ScyleMC tempban command
+   ban:
+      usage: /<command>
+      description: ScyleMC ban command
+   staffinfo:
+      usage: /<command>
+   mute:
+      usage: /<command>
+   report:
+      usage: /<command>
+   punish:
+      usage: /<command>
+   punishinfo:
+      usage: /<command>
